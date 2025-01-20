@@ -26,4 +26,4 @@ This is a PHP-based Library Gate Management System designed to track the entry a
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/library-gate-management.git
+git clone https://github.com/Madhav005/library-gate-management.git
